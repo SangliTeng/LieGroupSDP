@@ -13,7 +13,7 @@ MOSEK is required to solve the semidefinite programming.
 
 
 ## Citation:
-This project is released to reproduce the result of the conference paper and its journal extension. 
+This project is released to reproduce the result of the following conference paper and its journal extension. 
 
 ```
 @INPROCEEDINGS{Teng-RSS-23, 
